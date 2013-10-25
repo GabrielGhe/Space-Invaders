@@ -1,0 +1,12 @@
+Content\player.xnb
+Content\laser1.xnb
+Content\bomb.xnb
+Content\bunker.xnb
+Content\bonusbomb.xnb
+Content\bug1.xnb
+Content\flyingsaucer1.xnb
+Content\satellite1.xnb
+Content\spaceship1.xnb
+Content\playerLife.xnb
+Content\banner.xnb
+Content\scoreFont.xnb

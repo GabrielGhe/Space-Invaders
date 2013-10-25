@@ -1,0 +1,2 @@
+H:\C#\Project\SpaceInvaders\SpaceInvaders\SpaceInvadersContent\obj\x86\Debug\ResolveAssemblyReference.cache
+Y:\C#\Project\SpaceInvaders\SpaceInvaders\SpaceInvadersContent\obj\x86\Debug\ResolveAssemblyReference.cache
